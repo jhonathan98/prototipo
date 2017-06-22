@@ -1,0 +1,9 @@
+html{
+  margin: 0px;
+  padding: 0px;
+}
+.contenido{
+  border-radius: 9px;
+  margin: 90px auto;
+  width: 320px;
+}
